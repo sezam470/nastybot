@@ -10,5 +10,4 @@
 
 
 Установка:
-
 `pip install nastybot`

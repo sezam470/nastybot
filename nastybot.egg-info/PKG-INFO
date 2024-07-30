@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: nastybot
+Version: 0.1.0
+Summary: A Telegram bot for developer tasks
+Home-page: https://github.com/sezam470/nastybot
+Author: Nasty Developer
+Author-email: sezam470@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: None License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: telebot
+Requires-Dist: gigachat
+Requires-Dist: setuptools
+
+# Описание
+Я БОТ-АССИСТЕНТ, КОТОРЫЙ ПОМОГАЕТ:
+- ФОРМИРОВАТЬ ПРОДУКТ
+- ОПИСЫВАТЬ ЗАДАЧИ
+- ПОДСКАЗЫВАТЬ ВАРИАНТЫ РЕШЕНИЙ
+- ИЗУЧАТЬ НЕИЗВЕСТНЫЕ ТЕМЫ
+- ПОМОГАТЬ ПИСАТЬ КОД
+- ПОМОГАТЬ ГОТОВИТЬСЯ К ЗАЩИТЕ ПРОЕКТА
+- ПЕРЕВОДИТЬ ТЕКСТ С АНГЛИЙСКОГО ЯЗЫКА НА РУССКИЙ
+
+
+# Установка:
+`pip install nastybot`
+
+# Использование:
+bot = NastyBotClass(TELEGRAM_TOKEN, GIGACHAT_TOKEN)
+bot.run()

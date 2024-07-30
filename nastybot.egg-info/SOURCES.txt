@@ -1,0 +1,10 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.py
+nastybot.egg-info/PKG-INFO
+nastybot.egg-info/SOURCES.txt
+nastybot.egg-info/dependency_links.txt
+nastybot.egg-info/entry_points.txt
+nastybot.egg-info/requires.txt
+nastybot.egg-info/top_level.txt

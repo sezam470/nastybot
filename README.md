@@ -13,5 +13,5 @@
 `pip install nastybot`
 
 # Использование:
-bot = NastyBotClass(TELEGRAM_TOKEN, GIGACHAT_TOKEN)
-bot.run()
+`bot = NastyBotClass(TELEGRAM_TOKEN, GIGACHAT_TOKEN)`
+`bot.run()`

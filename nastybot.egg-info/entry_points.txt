@@ -1,2 +1,2 @@
 [console_scripts]
-nastybot = nastybot:run
+nastybot = nastybot

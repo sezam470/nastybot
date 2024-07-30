@@ -39,7 +39,7 @@ class NastyBotClass:
             else:
                self.communication[1] = self.communication[2]
                self.communication[2] = {"role": "user", "content": message.text}
-            system_message = self.generate_response(message)
+            system_message = self.generate_response()
             self.bot.send_message(message.chat.id, system_message)
 
     def generate_response(self):

@@ -1,6 +1,5 @@
 MANIFEST.in
 README.md
-requirements.txt
 setup.py
 nastybot.egg-info/PKG-INFO
 nastybot.egg-info/SOURCES.txt
